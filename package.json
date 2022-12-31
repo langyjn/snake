@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/langyjn/snake#readme",
   "dependencies": {
-    "webpack": "^3.12.0"
+    "webpack": "^5.75.0"
   }
 }
